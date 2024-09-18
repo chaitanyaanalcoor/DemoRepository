@@ -14,6 +14,7 @@ public class MyFirstProject {
     /**
      * @param args the command line arguments
      */
+    // monday demonstration
     public static void main(String[] args) {
         System.out.println("Hello");
         // TODO code application logic here
